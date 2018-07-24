@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitcoin Core
+Comment=Connect to the Wochain P2P Network
+Exec=wochain-qt %u
+Terminal=false
+Type=Application
+Icon=wochain128
+MimeType=x-scheme-handler/wochain;
+Categories=Office;Finance;
