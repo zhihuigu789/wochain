@@ -1,6 +1,0 @@
-cryptopp/libcryptopp_a-winpipes.o: cryptopp/winpipes.cpp cryptopp/pch.h \
-  cryptopp/config.h
-
-cryptopp/pch.h:
-
-cryptopp/config.h:

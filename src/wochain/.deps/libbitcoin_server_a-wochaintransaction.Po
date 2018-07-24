@@ -1,2 +1,0 @@
-wochain/libbitcoin_server_a-wochaintransaction.o: \
-  wochain/wochaintransaction.cpp
