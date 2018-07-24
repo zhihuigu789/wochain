@@ -1,0 +1,6 @@
+usr/local/bin/wochain-qt usr/bin
+share/pixmaps/wochain32.xpm usr/share/pixmaps
+share/pixmaps/wochain16.xpm usr/share/pixmaps
+share/pixmaps/wochain128.png usr/share/pixmaps
+debian/wochain-qt.desktop usr/share/applications
+debian/wochain-qt.protocol usr/share/kde4/services/
